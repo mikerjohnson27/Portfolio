@@ -32,20 +32,13 @@ body{
     background-color: black;
     border-radius: 10px;
 }
-.card {
-  background-color: #2e6da4;
-  transition: 0.5s;
-  transform-style: preserve-3d;
-}
-.text-skills-card{
-  color: white;
-  font-size: 20px;
-  text-align: center;
-}
 .card{
   max-height: 360px;
   max-width: 480px;
   margin: 5px;
+  background-color: #2e6da4;
+  transition: 0.5s;
+  transform-style: preserve-3d;
 }
 .btn{
   position: relative;
