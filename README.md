@@ -3,4 +3,4 @@ This is a personal portfolio of my projects and experience as a web developer. T
   Deployed Link: https://mikerjohnson.com/<br/>
   Repo Link: https://github.com/mikerjohnson27/Portfolio <br/>
   Screen Shots:
-![image](https://user-images.githubusercontent.com/101275747/166805642-866888e3-6f34-4c3a-aa4e-bf112b1c2046.png)
+![image](https://user-images.githubusercontent.com/101275747/167280189-bfd2d7dc-91e9-476d-90d8-22b3b7f82828.png)
