@@ -1,6 +1,23 @@
 body{
     background-color: #d4d4d4;
 }
+.card{
+width: 360px;
+border-radius: 20px;
+margin-top: 20px;
+}
+.modalimg{
+  height: 200px;
+  width: 325px;
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: left;
+}
+.card-img-top{
+  align-items: center;
+  vertical-align: center;
+  padding: 10px;
+}
 :root {
     --lightgray: #efefef;
     --blue: steelblue;
@@ -8,27 +25,13 @@ body{
     --black: rgba(0, 0, 0, 0.8);
     --bounceEasing: cubic-bezier(0.51, 0.92, 0.24, 1.15);
   }
-   
-  * {
-    padding: 0;
-    margin: 0;
-  }
-   
   button {
     cursor: pointer;
     background: transparent;
     border: none;
     outline: none;
     font-size: inherit;
-  }
-  body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    font: 16px/1.5 sans-serif;
-  }
-   
+  } 
   .btn-group {
     text-align: center;
   }
@@ -100,4 +103,3 @@ body{
     visibility: visible;
     opacity: 1;
   }
-  

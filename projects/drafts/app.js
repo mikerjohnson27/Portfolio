@@ -1,3 +1,5 @@
+//Modal Processing
+
 const openEls = document.querySelectorAll("[data-open]");
 let isVisible = "is-visible";
  
@@ -27,3 +29,5 @@ document.addEventListener("keyup", e => {
     document.querySelector(".modal.is-visible").classList.remove(isVisible);
   }
 });
+
+//End of Modal Processing
