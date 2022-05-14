@@ -1,10 +1,26 @@
+*{
+  font-family: 'Koulen', cursive;
+}
 body{
     background-color: #d4d4d4;
+}
+.header{
+  background-color: gray;
+  border: black;
+  border-style: solid;
+  border-radius: 20px;
+  margin: 10px;
+}
+.headerpro{
+  color: #fff;
+  text-align: center;
+  font-size: 45px;
 }
 .card{
 width: 360px;
 border-radius: 20px;
 margin-top: 20px;
+margin-left: 10px;
 }
 .modalimg{
   height: 200px;
