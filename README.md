@@ -22,7 +22,7 @@
 
   <h3>Screen Shots:</h3>
 
-<img scr="https://user-images.githubusercontent.com/101275747/167280189-bfd2d7dc-91e9-476d-90d8-22b3b7f82828.png">
+![image](https://user-images.githubusercontent.com/101275747/181305270-79a4ab17-df71-4c11-a8c4-b5ffae3489dc.png)
 
 ## Sources:
 
